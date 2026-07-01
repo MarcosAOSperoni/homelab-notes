@@ -15,7 +15,7 @@
 | Host | Hardware | RAM | Storage |
 |---|---|---|---|
 | pve1 | HP EliteDesk 800 G6 Mini (i7-10700T) | 32GB DDR4 | 512GB SSD |
-| pve2 | HP EliteDesk 800 G6 Mini (i7-10700T) | 64GB DDR4 | 512GB SSD |
+| pve2 | HP EliteDesk 800 G6 Mini (i7-10700T) | 64GB DDR4 | 2TB NVMe (Samsung 990 Pro) |
 | pve3 | Dell OptiPlex 7080 (i7-10700) | 64GB DDR4 | 1TB SSD |
 | Mac Studio | Apple M4 Max | 64GB unified | 1TB |
 | MacBook Pro | Apple M2 Pro | 96GB unified | 2TB |
