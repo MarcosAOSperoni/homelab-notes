@@ -22,12 +22,13 @@
 
 ## pve1
 
-**Role:** Proxmox node — attacker/security lab
+**Role:** Proxmox node — infrastructure
 
 | Service | Details |
 |---|---|
 | Proxmox VE | Hypervisor |
 | NUT (nut-server, nut-monitor) | UPS monitoring — primary, USB connected to APC BN1500M2 |
+| Pi-hole | LXC (CT 110, 192.168.0.210) — DNS + ad blocking for entire network |
 
 ### VMs
 
