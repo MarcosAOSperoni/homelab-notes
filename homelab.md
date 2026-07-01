@@ -38,7 +38,7 @@
 
 ## pve2
 
-**Role:** Proxmox node — services and targets
+**Role:** Proxmox node — applications
 
 | Service | Details |
 |---|---|
